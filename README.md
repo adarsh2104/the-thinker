@@ -1,1 +1,1 @@
-# the-thinker
+# Thought Galaxy
