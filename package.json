@@ -1,5 +1,5 @@
 {
-  "name": "Thought Galaxy",
+  "name": "thought-galaxy",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -10,7 +10,9 @@
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.2.0",
-    "uuid": "3.3.3"
+    "uuid": "3.3.3",
+    "engines": {
+    "node": "14.x"
   },
   "devDependencies": {
     "typescript": "3.3.3"
